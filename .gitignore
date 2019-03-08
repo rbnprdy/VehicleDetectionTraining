@@ -1,0 +1,7 @@
+*.mp4
+data/
+frozen_model*
+models/
+training/
+temp/
+.ipynb_checkpoints/
